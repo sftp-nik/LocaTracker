@@ -9,4 +9,5 @@ if (isset($_GET["lat"]) && isset($_GET["long"])) {
     echo "Latitude and longitude not set.";
 }
 
+
 ?>
